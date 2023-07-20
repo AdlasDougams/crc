@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Wed Jul 19 18:08:52 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : crc_component_project
+Top-level Entity Name : crc_component_project
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 847
+Total pins : 5
+Total virtual pins : 0
+Total block memory bits : 43,008
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0
